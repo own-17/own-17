@@ -1,115 +1,134 @@
+```md
 <h1 align="center">Hi 👋, I'm Own Masoom</h1>
-<h3 align="center">Final Year CSE Student @ NIT Jalandhar | AI/ML | Backend | Data Engineering</h3>
+
+<h3 align="center">
+Final Year Computer Science Student at NIT Jalandhar <br>
+AI/ML • Backend Development • Data Engineering
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech in Computer Science and Engineering at NIT Jalandhar
+🎓 Final Year B.Tech (Computer Science & Engineering) at **NIT Jalandhar**
 
-💻 Passionate about Backend Development, AI/ML and Data Engineering
+💻 Passionate about building scalable backend applications, AI-powered solutions, and cloud data pipelines.
 
-🌱 Currently Learning
-- AWS
+🌱 Currently learning
+
+- AWS Cloud
+- Apache Spark
 - PySpark
 - Databricks
-- Apache Spark
 - System Design
 
 🚀 Interested in
+
 - Software Development
 - Backend Engineering
 - Machine Learning
 - Data Engineering
 
-📫 Email: your_email@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
-
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-- Python
-- C++
-- C
-- JavaScript
-- SQL
-- Dart
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST API
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+---
 
 ### Machine Learning
 
-- TensorFlow
-- Keras
-- OpenCV
-- CNN
-- MobileNet
+TensorFlow • Keras • CNN • MobileNet • OpenCV
+
+---
 
 ### Data Engineering
 
-- AWS
-- Apache Spark
-- PySpark
-- Databricks
-- Athena
-- Glue
-- Lambda
-- S3
+AWS • S3 • Glue • Athena • Lambda • Step Functions • PySpark • Databricks
+
+---
 
 ### Databases
 
-- Firebase
-- Firestore
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+Firebase • Firestore • MySQL
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 LLM Chatbot
 
-Node.js + Groq + Tavily Search
+- Node.js
+- Express.js
+- Groq API
+- Tavily Search
+- REST APIs
+
+---
 
 ### 🌿 Medicinal Plant Identification
 
-TensorFlow | CNN | MobileNet
+- TensorFlow
+- CNN
+- MobileNet
+- OpenCV
 
-Accuracy: 96%
+✅ Achieved **96% Accuracy**
 
-### 📱 Flutter Chat Application
+---
 
-Flutter + Firebase
+### 📱 Chat Application
+
+- Flutter
+- Firebase Authentication
+- Firestore
+- Real-time Chat
+
+---
 
 ### ☁️ Netflix Data Engineering Pipeline
 
-AWS S3 | Glue | Athena | Lambda | Step Functions
+- AWS S3
+- Lambda
+- Glue
+- Athena
+- Step Functions
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=own-17&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=own-17&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=own-17&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=own-17&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=own-17&layout=compact&theme=tokyonight)
 
 ---
 
-## 💡 Quote
+## 📫 Connect With Me
 
-> Keep Learning • Keep Building • Keep Growing 🚀
+📧 Email : YOUR_EMAIL@gmail.com
+
+💼 LinkedIn : YOUR_LINKEDIN_URL
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+```
